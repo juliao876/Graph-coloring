@@ -1,1 +1,1 @@
-# KolorowanieGrafu1
+# Graph Coloring
